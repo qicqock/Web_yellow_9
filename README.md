@@ -7,7 +7,6 @@
 * **Credits**:
 	* basic template : [Phantom by HTML5UP](https://html5up.net)
 	* image slider : [jssor slider](https://www.jssor.com)
-	* front-end : [polymer](https://www.polymer-project.org/)
 	* map : [Google Maps api](https://developers.google.com/maps/documentation/javascript/adding-a-google-map?hl=ko)
 
 
