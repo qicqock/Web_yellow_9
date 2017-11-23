@@ -1,5 +1,4 @@
 # Developer documentation #
-=======================
 This documentation will help you understand more about our codes of the web.
 Short explanation of the files are offered. Some files do not have explanations.
 If you want to report a bug, ask a question, get more information, [Contact Us](ttps://github.com/ParkShinHyun92/Web_yellow_9/issues).
@@ -22,6 +21,7 @@ If you want to report a bug, ask a question, get more information, [Contact Us](
 
 ## Structure ##
 Web-yellow-10
+```
 ├────RemoteSystemsTempFiles
 ├────assets
 ├────html
@@ -30,6 +30,7 @@ Web-yellow-10
 ├────LICENSE
 ├────README.md
 ├────.DS_STORE
+```
 
 |File/Folder|Description|
 |---|---|
@@ -46,10 +47,10 @@ CSS, HTML, Javascript is used in this code.
 
 
 ### Assets ###
-(introduction of directory)
+```
 ├── ss
     ├── font-awesome.min.css
-    │   ├── main.css
+        ├── main.css
 		...
 ├── fonts
 	├── FontAwesome.otf
@@ -80,17 +81,17 @@ CSS, HTML, Javascript is used in this code.
 	├── ie8.scss
 	├── ie9.scss
 		...
-
+```
 |File/Folder|Description|
 |---|---|
-|**css**|ie8.css,ie9.css : includes support in Internet Explorer 8 and 9
-		css.main.css : basic structure in web, using this file in main.html |
+|**css**|ie8.css,ie9.css : includes support in Internet Explorer 8 and 9|
+|**main.css**|main.css : basic structure in web, using this file in main.html|
 |**fonts**|define the font family,boldness,size,and the style of a text|
 |**js**|contains java script files|
 |**scss**|contains scss files that help us use css|
 
 ### Html ###
-(introduction of directory)
+```
 ├── cate_html
 	├── DS_Store
 	├── cur_ev.html
@@ -108,6 +109,7 @@ CSS, HTML, Javascript is used in this code.
 	├── neighbor.html
 ├── DS_Store
 ├── main.html
+```
 
 
 |File/Folder|Description|
@@ -123,7 +125,7 @@ CSS, HTML, Javascript is used in this code.
 
 
 ### Images ###
-(introduction of directory)
+```
 ├── Ai
 	├── .DS_Store
 	├── 1.jpg
@@ -144,6 +146,7 @@ CSS, HTML, Javascript is used in this code.
 ├── banana.jpg
 ├── logo.jpg
 	...
+```
 
 |File/Folder|Description|
 |---|---|
@@ -153,7 +156,7 @@ CSS, HTML, Javascript is used in this code.
 
 
 ### Slider ###
-(introduction of directory)
+```
 ├── svg/loading/static-svg
 	├── ball-triangle.svg
 	├── circles.svg
@@ -167,6 +170,7 @@ CSS, HTML, Javascript is used in this code.
 ├── jquery-1.9.1.min.js
 ├── jssor.slider.min.js
 ├── package.json
+```
 
 
 |File/Folder|Description|
@@ -182,7 +186,6 @@ File that guarantees the license of our web(MIT).
 Basic introduction of our web.
 
 ## Credits ##
-=========
 Basic template : [Phantom by HTML5UP](https://html5up.net)
 Image slider : [jssor slider](https://www.jssor.com)
 Map : [Google Maps api](https://developers.google.com/maps/documentation/javascript/adding-a-google-map?hl=ko)
