@@ -1,7 +1,8 @@
 #Developer documentation#
 =======================
 This documentation will help you understand more about our codes of the web.
-If you want to report a bug or ask a question, [click here](ttps://github.com/ParkShinHyun92/Web_yellow_9/issues).
+Short explanation of the files are offered. Some files do not have explanations.
+If you want to report a bug, ask a question, get more information, [Contact Us](ttps://github.com/ParkShinHyun92/Web_yellow_9/issues).
 
 ## Summary ##
 
@@ -17,7 +18,7 @@ If you want to report a bug or ask a question, [click here](ttps://github.com/Pa
 - [Credits](#Credits)
 
 ## General ##
-- Author
+- Author :  Yoon Chan Woong, Choi Jin Woo
 
 ## Structure ##
 Web-yellow-10
@@ -30,6 +31,14 @@ Web-yellow-10
 ├────README.md
 ├────.DS_STORE
 
+|File/Folder|Description|
+|---|---|
+|**assets**|Contains files that determine the basic frame of the web|
+|**html**|Contains files that import sources from assets|
+|**images**|Contains images that are shown in card news and in the main screen|
+|**slider**|Contains files that supports sliding actions in the web(dragging, movement by keys|
+|**LICENSE**|Contains text that guarantees our license in our web|
+|**README.md**|Contains text that includes basic description of our web|
 
 
 ### Languages ###
@@ -101,6 +110,18 @@ CSS, HTML, Javascript is used in this code.
 ├────main.html
 
 
+|File/Folder|Description|
+|---|---|
+|**cate_html**|Contains codes that create 'Menu' tab on the right side of the web|
+|**cate_html/cur_ev.html**|Contains codes that display card news of the "Current issues" category|
+|**cate_html/ittech.html**|Contains codes that display card news of the "IT and Technology" category|
+|**cate_html/license**|Contains codes that displays 'License Warranty' on the web|
+|**cate_html/life**|Contains codes that display card news of the "Life" category|
+|**cate_htm/map**|Contains codes that display maps so that you can contact us offline|
+|**news_html**|Contains codes that create card news|
+|**main.html**|Contains codes that display the main screen of the web|
+
+
 ###Images###
 (introduction of directory)
 ├────Ai
@@ -146,6 +167,13 @@ CSS, HTML, Javascript is used in this code.
 ├────jquery-1.9.1.min.js
 ├────jssor.slider.min.js
 ├────package.json
+
+
+|File/Folder|Description|
+|---|---|
+|**jssor.slider.min.js**|Contains codes that supports the use of "Jssor Slider"|
+|**jquery-1.9.1.min.js**|Contains codes that supports the use of jquery, a javascript library made for HTML client-side scripting simplification|
+
 
 ###License###
 File that guarantees the license of our web(MIT).
