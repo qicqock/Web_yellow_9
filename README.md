@@ -5,7 +5,7 @@
 	* image slider : [jssor slider](https://www.jssor.com)
 	* map : [Google Maps api](https://developers.google.com/maps/documentation/javascript/adding-a-google-map?hl=ko)
 
-[![Join the chat at https://gitter.im/LouisBarranqueiro/hexo-theme-tranquilpeak](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/LouisBarranqueiro/hexo-theme-tranquilpeak?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/TaeUnisef-Web_yellow_9-Navy_5/Lobby#](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/TaeUnisef-Web_yellow_9-Navy_5/Lobby#)
 
 
 [Visit our Web site!](https://TaeUnisef.github.io/Web_yellow_9/html/main.html)
