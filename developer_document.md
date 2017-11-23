@@ -1,4 +1,4 @@
-#Developer documentation#
+# Developer documentation #
 =======================
 This documentation will help you understand more about our codes of the web.
 Short explanation of the files are offered. Some files do not have explanations.
@@ -45,40 +45,40 @@ Web-yellow-10
 CSS, HTML, Javascript is used in this code.
 
 
-###Assets###
+### Assets ###
 (introduction of directory)
-├────css
-	├────font-awesome.min.css
-	├────main.css
+├── ss
+    ├── font-awesome.min.css
+    │   ├── main.css
 		...
-├────fonts
-	├────FontAwesome.otf
-	├────fontawesome-webfont.eot
-	├────fontawesome-webfont.svg
+├── fonts
+	├── FontAwesome.otf
+	├── fontawesome-webfont.eot
+	├── fontawesome-webfont.svg
 		...
-├────js
-	├────jquery.min.js
-	├────main.js
+├── js
+	├── jquery.min.js
+	├── main.js
 		...
-├────sass
-	├────base
-		├────_page.scss
-		├────_typography.scss
-	├────components
-		├────_box.scss
-		├────_button.scss
-		├────_form.scss
+├── sass
+	├── base
+		├── _page.scss
+		├── _typography.scss
+	├── components
+		├── _box.scss
+		├── _button.scss
+		├── _form.scss
 			...
-	├────layout
-		├────_footer.scss
-		├────_header.scss
+	├── layout
+		├── _footer.scss
+		├── _header.scss
 			...
-	├────libs
-		├────_functions.scss
-		├────_mixins.scss
+	├── libs
+		├── _functions.scss
+		├── _mixins.scss
 			...
-	├────ie8.scss
-	├────ie9.scss
+	├── ie8.scss
+	├── ie9.scss
 		...
 
 |File/Folder|Description|
@@ -89,25 +89,25 @@ CSS, HTML, Javascript is used in this code.
 |**js**|contains java script files|
 |**scss**|contains scss files that help us use css|
 
-###Html###
+### Html ###
 (introduction of directory)
-├────cate_html
-	├────.DS_Store
-	├────cur_ev.html
-	├────ittech.html
-	├────license.html
-	├────life.html
-	├────map.html
-├────news_html
-	├────.DS_Store
-	├────Al.html
-	├────FB_research.html
-	├────clinical_ex.html
-	├────deathPenalty.html
-	├────jap.html
-	├────neighbor.html
-├────.DS_Store
-├────main.html
+├── cate_html
+	├── DS_Store
+	├── cur_ev.html
+	├── ittech.html
+	├── license.html
+	├── life.html
+	├── map.html
+├── news_html
+	├── DS_Store
+	├── Al.html
+	├── FB_research.html
+	├── clinical_ex.html
+	├── deathPenalty.html
+	├── jap.html
+	├── neighbor.html
+├── DS_Store
+├── main.html
 
 
 |File/Folder|Description|
@@ -122,27 +122,27 @@ CSS, HTML, Javascript is used in this code.
 |**main.html**|Contains codes that display the main screen of the web|
 
 
-###Images###
+### Images ###
 (introduction of directory)
-├────Ai
-	├────.DS_Store
-	├────1.jpg
+├── Ai
+	├── .DS_Store
+	├── 1.jpg
 		...
-├────clinical
-	├────.DS_Store
-	├────1.jpg
+├── clinical
+	├── .DS_Store
+	├── 1.jpg
 		...
-├────deathPenalty
-	├────.DS_Store
-	├────1.jpg
+├── deathPenalty
+	├── .DS_Store
+	├── 1.jpg
 		...
-├────jap
-	├────.DS_Store
-	├────1.jpg	
+├── jap
+	├── .DS_Store
+	├── 1.jpg	
 		...
-├────.DS_Store
-├────banana.jpg
-├────logo.jpg
+├── .DS_Store
+├── banana.jpg
+├── logo.jpg
 	...
 
 |File/Folder|Description|
@@ -152,21 +152,21 @@ CSS, HTML, Javascript is used in this code.
 |**pic01~15.jpg**|basically given image files|
 
 
-###Slider###
+### Slider ###
 (introduction of directory)
-├────svg/loading/static-svg
-	├────ball-triangle.svg
-	├────circles.svg
-	├────double-tail-spin.svg
+├── svg/loading/static-svg
+	├── ball-triangle.svg
+	├── circles.svg
+	├── double-tail-spin.svg
 		...
-├────trasitions
-	├────slideshow-transition-builder-controller.min.js
-	├────slideshow-transitions(360).html
-├────bower.json
-├────component.json
-├────jquery-1.9.1.min.js
-├────jssor.slider.min.js
-├────package.json
+├── trasitions
+	├── slideshow-transition-builder-controller.min.js
+	├── slideshow-transitions(360).html
+├── bower.json
+├── component.json
+├── jquery-1.9.1.min.js
+├── jssor.slider.min.js
+├── package.json
 
 
 |File/Folder|Description|
@@ -175,13 +175,13 @@ CSS, HTML, Javascript is used in this code.
 |**jquery-1.9.1.min.js**|Contains codes that supports the use of jquery, a javascript library made for HTML client-side scripting simplification|
 
 
-###License###
+### License ###
 File that guarantees the license of our web(MIT).
 
-###README.md###
+### README.md ###
 Basic introduction of our web.
 
-##Credits##
+## Credits ##
 =========
 Basic template : [Phantom by HTML5UP](https://html5up.net)
 Image slider : [jssor slider](https://www.jssor.com)
