@@ -32,7 +32,7 @@
 
 **General features :**  
 
-- 특징 넣자
+- 특징 넣자  
 
 
 **Posts features :**  
