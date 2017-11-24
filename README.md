@@ -66,17 +66,14 @@ To install and configure the theme, consult the following documentation : [user 
 
 ##### For developers
 
-개발자 사용설명서 집어넣기
 
 To understand the code, the workflow and edit the theme, consult the following documentation : [developer documentation](https://github.com/TaeUnisef/Web_yellow_9/blob/master/developer_document.md)
 
 ## Contributing ##
 
-**contribute.md 파일도 만들어야함**
-
 All kinds of contributions (enhancements, new features, documentation & code improvements, issues & bugs reporting) are welcome.
 
-Read [guidelines for contributing](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/blob/master/.github/CONTRIBUTING.md) for more information.
+Read [guidelines for contributing](https://github.com/TaeUnisef/Web_yellow_9/blob/master/contributing.md) for more information.
 
 ## License ##
 
