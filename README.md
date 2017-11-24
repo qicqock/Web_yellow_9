@@ -68,7 +68,7 @@ To install and configure the theme, consult the following documentation : [user 
 
 개발자 사용설명서 집어넣기
 
-To understand the code, the workflow and edit the theme, consult the following documentation : [developer documentation](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/blob/master/docs/developer.md)
+To understand the code, the workflow and edit the theme, consult the following documentation : [developer documentation](https://github.com/TaeUnisef/Web_yellow_9/blob/master/developer_document.md)
 
 ## Contributing ##
 
