@@ -1,7 +1,7 @@
 # Developer documentation #
 This documentation will help you understand more about our codes of the web.
 Short explanation of the files are offered. Some files do not have explanations.
-If you want to report a bug, ask a question, get more information, [Contact Us](ttps://github.com/ParkShinHyun92/Web_yellow_9/issues).
+If you want to report a bug, ask a question, get more information, [Contact Us](https://github.com/TaeUnisef/Web_yellow_9)
 
 ## Summary ##
 
