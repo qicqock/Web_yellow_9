@@ -13,7 +13,7 @@ If you want to report a bug, ask a question, get more information, [Contact Us](
     * [Images](#images)
     * [Slider](#slider)
 	* [License](#license)
-	* [README.md](#readme.md)
+	* [Readme.md](#readme.md)
 - [Credits](#credits)
 
 ## General ##
@@ -182,10 +182,14 @@ CSS, HTML, Javascript is used in this code.
 ### License ###
 File that guarantees the license of our web(MIT).
 
-### README.md ###
+### Readme.md ###
 Basic introduction of our web.
 
 ## Credits ##
 Basic template : [Phantom by HTML5UP](https://html5up.net)
+
 Image slider : [jssor slider](https://www.jssor.com)
+
 Map : [Google Maps api](https://developers.google.com/maps/documentation/javascript/adding-a-google-map?hl=ko)
+
+Reference : [LouisBarranqueiro/hexo-theme-tranquilpeak](https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/blob/master/docs/developer.md#build)
