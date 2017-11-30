@@ -6,7 +6,7 @@ If you want to report a bug, ask a question, get more information, [Contact Us](
 ## Summary ##
 
 - [General](#general)
-- [structure](#structure)
+- [Structure](#structure)
     * [Languages](#languages)
     * [Assets](#Assets)
     * [Html](#Html)
