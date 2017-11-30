@@ -8,13 +8,13 @@ If you want to report a bug, ask a question, get more information, [Contact Us](
 - [General](#general)
 - [Structure](#structure)
     * [Languages](#languages)
-    * [Assets](#Assets)
-    * [Html](#Html)
-    * [Images](#Images)
-    * [Slider](#Slider)
-	* [License](#License)
-	* [README.md](#README.md)
-- [Credits](#Credits)
+    * [Assets](#assets)
+    * [Html](#html)
+    * [Images](#images)
+    * [Slider](#slider)
+	* [License](#license)
+	* [README.md](#readme.md)
+- [Credits](#credits)
 
 ## General ##
 - Author :  Yoon Chan Woong, Choi Jin Woo
